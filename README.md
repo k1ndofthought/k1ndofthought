@@ -25,7 +25,6 @@ I enjoy turning data into insights through statistics, programming, and machine 
 - Data Science
 - Machine Learning
 - Quantitative Finance & Trading
-- Quant trading
 - Artificial Intelligence
 
 ## Current Goal
