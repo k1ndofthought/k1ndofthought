@@ -16,6 +16,8 @@ I enjoy turning data into insights through statistics, programming, and machine 
 - Databases: SQL, PostgreSQL
 - Data Analysis: Pandas, NumPy, Statistics
 - Machine Learning: Scikit-Learn
+- Full-Stack Development: JS, React,
+- A/B Testing
 - Visualization: Power BI, Excel
 - Tools: Git, GitHub, Jupyter Notebook
 
@@ -23,7 +25,7 @@ I enjoy turning data into insights through statistics, programming, and machine 
 - Data Science
 - Machine Learning
 - Quantitative Finance & Trading
-- Computer Vision
+- Quant trading
 - Artificial Intelligence
 
 ## Current Goal
